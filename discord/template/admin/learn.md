@@ -6,4 +6,4 @@ __-learn:
 https://www.typing.com/student/lessons
 
     [b] Learn Git | W3 Schools:
-https://www.w3schools.com/git/default.asp
+[Git W3](https://www.w3schools.com/git/default.asp)
