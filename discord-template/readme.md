@@ -12,17 +12,21 @@ __-discord-template:
 📻-radio
 🎧🔊-gen
 🎧🔊-electric-bloonaloo
+
 /📝 Planner
 📅-schedule
 🌎-plans
+
 /💻 Computers
 🎮-platforms
 💻-specs
 🖥-components
+
 /📖 Archive
 👾-games
 📼-videos
 📜-dakine-texts
+
 //
 readme
 admin
