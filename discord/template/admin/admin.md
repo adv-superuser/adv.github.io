@@ -8,7 +8,7 @@
   [b] Password:
   2d&+-B#X8&nAf2~
 
-N----If password resets.    
-O----Record password here,    
-T----via Superuser account.    
-E----Mahalo    
+N____If password resets.    
+O____Record password here,    
+T____via Superuser account.    
+E____Mahalo    
