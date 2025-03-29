@@ -2,7 +2,7 @@
 
 __-tower-of-god:
 ----------------
---> [Tower of God](https://www.mangaread.org/manga/tower-of-god-manhwa/) <--
+[Tower of God](https://www.mangaread.org/manga/tower-of-god-manhwa/)
     
     [a] Chapter Joey left off on:
     § 652
