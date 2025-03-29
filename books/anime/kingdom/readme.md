@@ -2,4 +2,4 @@
 
 __-kingdom:
 -----------
-[kingdom](https://www.mangaread.org/manga/kingdom/)
+[Kingdom](https://www.mangaread.org/manga/kingdom/)
