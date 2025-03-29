@@ -2,6 +2,11 @@
 
 __-discord-template:
 --------------------
+2025-03-28
+
+__-discord-template:
+--------------------
+```
 💬-discussion
 🔔-need-teamates
 📻-radio
@@ -22,3 +27,4 @@ __-discord-template:
 readme
 admin
 learn
+```
