@@ -4,12 +4,12 @@ __-tower-of-god:
 ----------------
 [Tower of God](https://www.mangaread.org/manga/tower-of-god-manhwa/)
     
-    [a] Chapter Joey(J-) left off on:
+    [a] Chapter Joey left off on:
     § 652
     
-    [b] Chapter Koa(K-) left off on:
+    [b] Chapter Koa left off on:
     § 269
 
-    [c] Urek Mazino spinoff:
-    J- & K- left off on:
+[Urek Mazino](https://mangabuddy.com/tower-of-god-urek-mazino)
+    [a] Joey & Koa left off on:
     § 7 
