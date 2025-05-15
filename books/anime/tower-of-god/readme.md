@@ -12,5 +12,5 @@ __-tower-of-god:
 
 [Urek Mazino](https://mangabuddy.com/tower-of-god-urek-mazino)
 
-    [a] Joey & Koa left off on:
+    [a] Chapter Joey & Koa left off on:
     § 7 
