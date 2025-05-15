@@ -11,5 +11,6 @@ __-tower-of-god:
     § 269
 
 [Urek Mazino](https://mangabuddy.com/tower-of-god-urek-mazino)
+
     [a] Joey & Koa left off on:
     § 7 
