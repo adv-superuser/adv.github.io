@@ -8,7 +8,7 @@ __-tower-of-god:
     § 652
     
     [b] Chapter Koa left off on:
-    § 291
+    § 309
 
 [Urek Mazino](https://mangabuddy.com/tower-of-god-urek-mazino)
 
