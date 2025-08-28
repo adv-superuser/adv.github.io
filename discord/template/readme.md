@@ -1,11 +1,7 @@
 2025-03-28
 
-__-discord-template:
---------------------
-2025-03-28
-
-__-discord-template:
---------------------
+discord-template:
+-----------------
 ```
 💬-discussion
 🔔-need-teamates
@@ -13,16 +9,16 @@ __-discord-template:
 🎧🔊-gen
 🎧🔊-electric-bloonaloo
 
-/📝 Planner
+/📝 Planner/
 📅-schedule
 🌎-plans
 
-/💻 Computers
+/💻 Computers/
 🎮-platforms
 💻-specs
 🖥-components
 
-/📖 Archive
+/📖 Archive/
 👾-games
 📼-videos
 📜-dakine-texts
