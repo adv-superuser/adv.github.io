@@ -1,7 +1,7 @@
 2025-03-28
 
-__-tower-of-god:
-----------------
+tower-of-god:
+-------------
 [Tower of God](https://www.mangaread.org/manga/tower-of-god-manhwa/)
     
     [a] Chapter x left off on:
