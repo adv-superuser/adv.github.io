@@ -1,6 +1,5 @@
 2025-03-28
 
-__-gitlab:
-----------
-    [a] Website:
+gitlab:
+-------
 [GitLab](https://gitlab.com/)
