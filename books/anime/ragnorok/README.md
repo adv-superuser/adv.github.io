@@ -1,5 +1,5 @@
 2025-03-28
 
-__-ragnorok:
-------------
+ragnorok:
+---------
 [Ragnorok](https://comick.io/comic/shuumatsu-no-valkyrie)
