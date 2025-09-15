@@ -1,7 +1,7 @@
 2025-03-28
 
-discord-template:
------------------
+server:
+-------
 ```
 💬-discussion
 🔔-need-teamates
