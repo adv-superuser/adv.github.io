@@ -96,7 +96,7 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
     
-![adv-ascii-art]()
+![adv-ascii-art](https://github.com/adv-superuser/adv.github.io/blob/main/adv-ascii-art.png)
 
 ### Large image
 
