@@ -4,12 +4,12 @@
 
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Adventure Team]
+description: [description-pending]
 
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+show_downloads: [false]
 google_analytics: [Your Google Analytics tracking ID]
 
 #github:
