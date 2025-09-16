@@ -7,7 +7,7 @@ plugins:
 - jekyll-remote-theme
 
 title: [Adventure Team]
-description: [description-pending]
+description: [![ADV Thumbnail](adv-ascii-art.png)]
 
 show_downloads: [false]
 google_analytics: [Your Google Analytics tracking ID]
