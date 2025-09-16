@@ -1,4 +1,4 @@
-[![.github/workflows/ci.yaml](https://github.com/adv-superuser/adv.github.io/actions/workflows/ci.yaml/badge.svg)](https://github.com/adv-superuser/adv.github.io/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-dinky.svg)](https://badge.fury.io/rb/jekyll-theme-dinky)
+[![.github/workflows/ci.yaml](https://github.com/adv-superuser/adv.github.io/actions/workflows/ci.yaml/badge.svg)](https://github.com/adv-superuser/adv.github.io/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-dinky.svg)](https://badge.fury.io/rb/jekyll-theme-dinky)    
 2025-09-07    
 
 ```
