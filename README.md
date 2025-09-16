@@ -1,16 +1,13 @@
-2025-09-07    
-    
-# WIP
+2025-09-07 <ln>
+WIP <ln>
+# ADV
+
+![ADV Thumbnail](adv-ascii-art.png)
+-----
 
 ```
 ~/adv.github.io/README.md
-```
-
------
-![ADV Thumbnail](adv-ascii-art.png)
-<ln>
-    
-
+```    
 
 The Dinky theme
 
