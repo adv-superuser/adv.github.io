@@ -1,13 +1,15 @@
 2025-09-07    
 WIP    
+
+```
+~/adv.github.io/README.md
+```
+
 # Adventure Team
 
 ![ADV Thumbnail](adv-ascii-art.png)
 -----
 
-```
-~/adv.github.io/README.md
-```    
 
 The Dinky theme
 
