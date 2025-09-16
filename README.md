@@ -1,6 +1,6 @@
-2025-09-07 <ln>
-WIP <ln>
-# ADV
+2025-09-07    
+WIP    
+# Adventure Team
 
 ![ADV Thumbnail](adv-ascii-art.png)
 -----
