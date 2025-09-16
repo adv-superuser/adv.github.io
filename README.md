@@ -1,12 +1,10 @@
 2025-09-07    
+~/adv.github.io/README.md    
 # Adventure Team 
 ![ADV Thumbnail](adv-ascii-art.png)
 -----------------------------------
 [![.github/workflows/ci.yaml](https://github.com/adv-superuser/adv.github.io/actions/workflows/ci.yaml/badge.svg)](https://github.com/adv-superuser/adv.github.io/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-dinky.svg)](https://badge.fury.io/rb/jekyll-theme-dinky)    
 
-```
-~/adv.github.io/README.md
-```
 
 
 WIP - Ruby Gems
