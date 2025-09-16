@@ -1,5 +1,4 @@
 2025-09-07    
-WIP    
 
 ```
 ~/adv.github.io/README.md
