@@ -1,4 +1,4 @@
-2025-09-07    
+**2025-09-07**    
 ```~/adv.github.io/README.md```
 # Adventure Team 
 ![ADV Thumbnail](adv-ascii-art.png)
